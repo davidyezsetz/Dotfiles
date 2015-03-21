@@ -1,7 +1,7 @@
 #My various dotfiles
 
 ##Installation
-Run link.sh to symlink all files. Make sure they're backed up if necessary
+Run bootstrap.sh to copy files
 
 ##Aliases
 | Command | Description     |

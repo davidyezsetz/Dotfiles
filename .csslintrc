@@ -1,0 +1,47 @@
+/**
+ * These rules are true for most of the files
+ * but should be overwritten when it makes sense
+ * 
+ * Typical overwrites are:
+ * box-sizing: false in generic/box-sizing
+ * import: false in main.scss (includes should ideally be limited to one file)
+ * important: false in trumps/*
+ *
+ * For IE8 support 
+ * set "fallback-colors": true
+ * set "bulletproof-font-face": true
+ */
+
+{
+  "adjoining-classes": false,
+  "box-sizing": true,
+  "box-model": false,
+  "bulletproof-font-face": false,
+  "compatible-vendor-prefixes": false,
+  "display-property-grouping": true,
+  "duplicate-properties": true,
+  "duplicate-background-images": true,
+  "empty-rules": true,
+  "fallback-colors": true,
+  "floats": false,
+  "font-faces": true,
+  "font-sizes": false,
+  "gradients": false,
+  "ids": true,
+  "import": 2,
+  "important": 2,
+  "known-properties": false,
+  "outline-none": true,
+  "overqualified-elements": 2,
+  "qualified-headings": true,
+  "regex-selectors": true,
+  "shorthand": true,
+  "star-property-hack": 2,
+  "text-indent": true,
+  "underscore-property-hack": 2,
+  "unique-headings": false,
+  "universal-selector": true,
+  "unqualified-attributes": true, 
+  "vendor-prefix": true,
+  "zero-units": true
+}

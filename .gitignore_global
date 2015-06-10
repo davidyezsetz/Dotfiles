@@ -27,6 +27,6 @@ Thumbs.db
 
 # dependencies and compiled files
 **/bower_components/*
-/node_modules/
-/dist/
-/_site/
+**/node_modules/
+**/dist/
+**/_site/

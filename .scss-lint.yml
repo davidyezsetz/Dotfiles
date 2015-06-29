@@ -148,6 +148,8 @@ linters:
       - min-height
       - max-height
       - transform
+      - transform-origin
+      - transform-style
       - border
       - border-top
       - border-right

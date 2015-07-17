@@ -62,3 +62,6 @@ alias emptytrash="sudo rm -rfv /Volumes/*/.Trashes; sudo rm -rfv ~/.Trash; sudo 
 
 # Lock the screen (when going AFK)
 alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend"
+
+# Simulator
+alias simulator='open /Applications/Xcode.app/Contents/Developer/Applications/iOS\ Simulator.app'

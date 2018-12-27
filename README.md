@@ -1,9 +1,11 @@
-#My various dotfiles
+# My various dotfiles
 
-##Installation
+## Installation
+
 Run bootstrap.sh to copy files
 
-##Aliases
+## Aliases
+
 | Command | Description     |
 |-------------|-----------------|
 | __Navigation__                |
